@@ -1,0 +1,4 @@
+server:
+  port: 8220
+  servlet:
+    context-path: /regex
